@@ -8,6 +8,7 @@
 </head>
 <body>
 	<form action="login" method="post">
+	<div>${msg}</div>
 		<input type="text" name="username">
 		<input type="text" name="password"> 
 		<input type="submit" value="登录">

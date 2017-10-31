@@ -1,4 +1,4 @@
-package com.yuan.mapper;
+package com.yuan.model;
 
 public class User {
 	private String username;
